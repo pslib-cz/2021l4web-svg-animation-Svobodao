@@ -3,32 +3,26 @@
         <path d="m-167.9502-290.8981 0.7925 0c17.7064-11.7336 154.6073-101.3115 316.7205-175.4233 101.92472-46.5958 193.85302-78.1162 273.23182-93.6854 51.2694-10.0563 97.4708-13.4343 138.3307-10.1849-144.3978-142.1157-342.5173-229.8083-561.12532-229.8083-60.0491 0-118.5476 6.6301-174.817 19.173-29.582 34.9311-54.8083 82.5997-75.3447 142.5306-25.5801 74.6484-43.8427 168.0583-54.2801 277.6346-12.699 133.3133-10.5593 258.618-8.2264 320.423l143.7965-249.063-0.2115-0.3142c0.0487-0.0328 0.2673-0.1794 0.6399-0.4278l0.4931-0.8543z" transform="rotate(0)">
             <animate attributeName="opacity" values="0.8;1;0.8" dur="1s" begin="0s" repeatCount="indefinite"></animate>
             <animateTransform attributeName="transform" type="rotate" dur="1s" begin="0s" repeatCount="indefinite" by="60"></animateTransform>
-            <animateTransform attributeName="transform" additive="sum" type="scale" dur="1s" begin="0s" repeatCount="indefinite" values="1;1.1;1" keyTimes="0;0.5;1"></animateTransform>
         </path>
         <path d="m-167.9502-290.8981 0.7925 0c17.7064-11.7336 154.6073-101.3115 316.7205-175.4233 101.92472-46.5958 193.85302-78.1162 273.23182-93.6854 51.2694-10.0563 97.4708-13.4343 138.3307-10.1849-144.3978-142.1157-342.5173-229.8083-561.12532-229.8083-60.0491 0-118.5476 6.6301-174.817 19.173-29.582 34.9311-54.8083 82.5997-75.3447 142.5306-25.5801 74.6484-43.8427 168.0583-54.2801 277.6346-12.699 133.3133-10.5593 258.618-8.2264 320.423l143.7965-249.063-0.2115-0.3142c0.0487-0.0328 0.2673-0.1794 0.6399-0.4278l0.4931-0.8543z" transform="rotate(60)">
             <animate attributeName="opacity" values="0.8;1;0.8" dur="1s" begin="0.2s" repeatCount="indefinite"></animate>
             <animateTransform attributeName="transform" type="rotate" dur="1s" begin="0.2s" repeatCount="indefinite" by="60"></animateTransform>
-            <animateTransform attributeName="transform" additive="sum" type="scale" dur="1s" begin="0.2s" repeatCount="indefinite" values="1;1.1;1" keyTimes="0;0.5;1"></animateTransform>
         </path>
         <path d="m-167.9502-290.8981 0.7925 0c17.7064-11.7336 154.6073-101.3115 316.7205-175.4233 101.92472-46.5958 193.85302-78.1162 273.23182-93.6854 51.2694-10.0563 97.4708-13.4343 138.3307-10.1849-144.3978-142.1157-342.5173-229.8083-561.12532-229.8083-60.0491 0-118.5476 6.6301-174.817 19.173-29.582 34.9311-54.8083 82.5997-75.3447 142.5306-25.5801 74.6484-43.8427 168.0583-54.2801 277.6346-12.699 133.3133-10.5593 258.618-8.2264 320.423l143.7965-249.063-0.2115-0.3142c0.0487-0.0328 0.2673-0.1794 0.6399-0.4278l0.4931-0.8543z" transform="rotate(120)">
             <animate attributeName="opacity" values="0.8;1;0.8" dur="1s" begin="0.4s" repeatCount="indefinite"></animate>
             <animateTransform attributeName="transform" type="rotate" dur="1s" begin="0.4s" repeatCount="indefinite" by="60"></animateTransform>
-            <animateTransform attributeName="transform" additive="sum" type="scale" dur="1s" begin="0.4s" repeatCount="indefinite" values="1;1.1;1" keyTimes="0;0.5;1"></animateTransform>
         </path>
         <path d="m-167.9502-290.8981 0.7925 0c17.7064-11.7336 154.6073-101.3115 316.7205-175.4233 101.92472-46.5958 193.85302-78.1162 273.23182-93.6854 51.2694-10.0563 97.4708-13.4343 138.3307-10.1849-144.3978-142.1157-342.5173-229.8083-561.12532-229.8083-60.0491 0-118.5476 6.6301-174.817 19.173-29.582 34.9311-54.8083 82.5997-75.3447 142.5306-25.5801 74.6484-43.8427 168.0583-54.2801 277.6346-12.699 133.3133-10.5593 258.618-8.2264 320.423l143.7965-249.063-0.2115-0.3142c0.0487-0.0328 0.2673-0.1794 0.6399-0.4278l0.4931-0.8543z" transform="rotate(180)">
             <animate attributeName="opacity" values="0.8;1;0.8" dur="1s" begin="0.6s" repeatCount="indefinite"></animate>
             <animateTransform attributeName="transform" type="rotate" dur="1s" begin="0.6s" repeatCount="indefinite" by="60"></animateTransform>
-            <animateTransform attributeName="transform" additive="sum" type="scale" dur="1s" begin="0.6s" repeatCount="indefinite" values="1;1.1;1" keyTimes="0;0.5;1"></animateTransform>
         </path>
         <path d="m-167.9502-290.8981 0.7925 0c17.7064-11.7336 154.6073-101.3115 316.7205-175.4233 101.92472-46.5958 193.85302-78.1162 273.23182-93.6854 51.2694-10.0563 97.4708-13.4343 138.3307-10.1849-144.3978-142.1157-342.5173-229.8083-561.12532-229.8083-60.0491 0-118.5476 6.6301-174.817 19.173-29.582 34.9311-54.8083 82.5997-75.3447 142.5306-25.5801 74.6484-43.8427 168.0583-54.2801 277.6346-12.699 133.3133-10.5593 258.618-8.2264 320.423l143.7965-249.063-0.2115-0.3142c0.0487-0.0328 0.2673-0.1794 0.6399-0.4278l0.4931-0.8543z" transform="rotate(240)">
             <animate attributeName="opacity" values="0.8;1;0.8" dur="1s" begin="0.8s" repeatCount="indefinite"></animate>
             <animateTransform attributeName="transform" type="rotate" dur="1s" begin="0.8s" repeatCount="indefinite" by="60"></animateTransform>
-            <animateTransform attributeName="transform" additive="sum" type="scale" dur="1s" begin="0.8s" repeatCount="indefinite" values="1;1.1;1" keyTimes="0;0.5;1"></animateTransform>
         </path>
         <path d="m-167.9502-290.8981 0.7925 0c17.7064-11.7336 154.6073-101.3115 316.7205-175.4233 101.92472-46.5958 193.85302-78.1162 273.23182-93.6854 51.2694-10.0563 97.4708-13.4343 138.3307-10.1849-144.3978-142.1157-342.5173-229.8083-561.12532-229.8083-60.0491 0-118.5476 6.6301-174.817 19.173-29.582 34.9311-54.8083 82.5997-75.3447 142.5306-25.5801 74.6484-43.8427 168.0583-54.2801 277.6346-12.699 133.3133-10.5593 258.618-8.2264 320.423l143.7965-249.063-0.2115-0.3142c0.0487-0.0328 0.2673-0.1794 0.6399-0.4278l0.4931-0.8543z" transform="rotate(300)">
             <animate attributeName="opacity" values="0.8;1;0.8" dur="1s" begin="1s" repeatCount="indefinite"></animate>
             <animateTransform attributeName="transform" type="rotate" dur="1s" begin="1s" repeatCount="indefinite" by="60"></animateTransform>
-            <animateTransform attributeName="transform" additive="sum" type="scale" dur="1s" begin="1s" repeatCount="indefinite" values="1;1.1;1" keyTimes="0;0.5;1"></animateTransform>
         </path>
     </g>
 </svg>
